@@ -1,0 +1,56 @@
+{
+    "PlatformingAgent": {
+        "checkpoints": [
+            {
+                "steps": 94803,
+                "file_path": "results\\Platformer_v1\\PlatformingAgent\\PlatformingAgent-94803.onnx",
+                "reward": 5.906447380781174,
+                "creation_time": 1771204477.494032,
+                "auxillary_file_paths": [
+                    "results\\Platformer_v1\\PlatformingAgent\\PlatformingAgent-94803.pt"
+                ]
+            },
+            {
+                "steps": 213665,
+                "file_path": "results\\Platformer_v1\\PlatformingAgent\\PlatformingAgent-213665.onnx",
+                "reward": 5.068222345908483,
+                "creation_time": 1771205758.115056,
+                "auxillary_file_paths": [
+                    "results\\Platformer_v1\\PlatformingAgent\\PlatformingAgent-213665.pt"
+                ]
+            },
+            {
+                "steps": 499993,
+                "file_path": "results\\Platformer_v1\\PlatformingAgent\\PlatformingAgent-499993.onnx",
+                "reward": 4.793106844723225,
+                "creation_time": 1771206423.7218518,
+                "auxillary_file_paths": [
+                    "results\\Platformer_v1\\PlatformingAgent\\PlatformingAgent-499993.pt"
+                ]
+            },
+            {
+                "steps": 948146,
+                "file_path": "results\\Platformer_v1\\PlatformingAgent\\PlatformingAgent-948146.onnx",
+                "reward": 4.727207796914237,
+                "creation_time": 1771206938.642717,
+                "auxillary_file_paths": [
+                    "results\\Platformer_v1\\PlatformingAgent\\PlatformingAgent-948146.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 948146,
+            "file_path": "results\\Platformer_v1\\PlatformingAgent.onnx",
+            "reward": 4.727207796914237,
+            "creation_time": 1771206938.642717,
+            "auxillary_file_paths": [
+                "results\\Platformer_v1\\PlatformingAgent\\PlatformingAgent-948146.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.1+cu121"
+    }
+}

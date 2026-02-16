@@ -1,0 +1,38 @@
+{
+    "WarehouseAgent": {
+        "checkpoints": [
+            {
+                "steps": 3216,
+                "file_path": "results\\Warehouse_GPU_01\\WarehouseAgent\\WarehouseAgent-3216.onnx",
+                "reward": -0.20000000894069672,
+                "creation_time": 1771197360.2874432,
+                "auxillary_file_paths": [
+                    "results\\Warehouse_GPU_01\\WarehouseAgent\\WarehouseAgent-3216.pt"
+                ]
+            },
+            {
+                "steps": 60762,
+                "file_path": "results\\Warehouse_GPU_01\\WarehouseAgent\\WarehouseAgent-60762.onnx",
+                "reward": 0.9987755099121405,
+                "creation_time": 1771197830.9991474,
+                "auxillary_file_paths": [
+                    "results\\Warehouse_GPU_01\\WarehouseAgent\\WarehouseAgent-60762.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 60762,
+            "file_path": "results\\Warehouse_GPU_01\\WarehouseAgent.onnx",
+            "reward": 0.9987755099121405,
+            "creation_time": 1771197830.9991474,
+            "auxillary_file_paths": [
+                "results\\Warehouse_GPU_01\\WarehouseAgent\\WarehouseAgent-60762.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.1+cu121"
+    }
+}
